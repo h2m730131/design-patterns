@@ -1,5 +1,5 @@
 # Head First Design Patterns
-[] 策略模式 Strategy Pattern
+[X] 策略模式 Strategy Pattern
 [] 觀察者模式 Observer Pattern
 [] 裝飾者模式 Decorator Pattern
 [] 工廠模式 Factory Pattern
