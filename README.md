@@ -1,8 +1,8 @@
 # Head First Design Patterns
-[X] 策略模式 Strategy Pattern
-[] 觀察者模式 Observer Pattern
-[] 裝飾者模式 Decorator Pattern
-[] 工廠模式 Factory Pattern
+* [] 策略模式 Strategy Pattern
+* [X] 觀察者模式 Observer Pattern
+- [] 裝飾者模式 Decorator Pattern
+- [X] 工廠模式 Factory Pattern
   * 簡單工廠 Simple Factory
   * 工廠方法模式 Factory Method Pattern
   * 抽象工廠模式 Abstract Factory Pattern
